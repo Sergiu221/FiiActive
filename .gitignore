@@ -1,0 +1,12 @@
+/.idea/
+.gradle/*
+/build/
+*.log
+.idea/
+*.iml
+*.apk
+*.ap_
+/.gradle/
+*.bin
+.gradle/8.10.2/executionHistory/executionHistory.bin
+**/executionHistory.bin
